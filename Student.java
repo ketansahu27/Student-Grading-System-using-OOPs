@@ -35,7 +35,7 @@ public class Student {
   // Main method 
   public static void main(String[] args) {
     int[] marks = {85, 72, 90, 67, 88};
-    Student s = new Student("Aryan Sharma", marks);
+    Student s = new Student("Ketan Sahu", marks);
     s.display();
   }
 }
